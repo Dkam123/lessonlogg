@@ -1,0 +1,6 @@
+2023-05-24 20:40:34,345 | DEBUG: dowload
+2023-05-24 20:40:34,345 | INFO: скачався файл
+2023-05-24 20:41:39,183 | DEBUG: dowload
+2023-05-24 20:41:39,183 | INFO: скачався файл
+2023-05-24 20:41:43,855 | DEBUG: call function calc: 5 and 6 = 17
+2023-05-24 20:41:43,855 | ERROR: something wrong[Errno 2] No such file or directory: 'config.txt'
